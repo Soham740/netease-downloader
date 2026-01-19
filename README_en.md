@@ -12,7 +12,7 @@
 This project aims to address the shortcomings of traditional download tools—such as outdated interfaces, limited functionality, and cumbersome login processes—by offering a comprehensive, all-in-one solution with an intuitive workflow.
 
 <p align="center">
-  <a href="https://www.bilibili.com" target="_blank">
+  <a href="https://www.bilibili.com/video/BV1MDkgB7ETN/" target="_blank">
     <img src="./images/cover_demo.png" alt="Click to watch the demo video on Bilibili (Coming Soon)" width="800"/>
   </a>
   <br>
@@ -163,5 +163,6 @@ Contributions of any kind are welcome! If you have ideas for new features, found
 If this project has been helpful to you, please consider giving it a ⭐!
 
 ## 📜 License
+
 
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
