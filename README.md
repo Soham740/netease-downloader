@@ -12,7 +12,7 @@
 本项目旨在解决传统下载工具界面陈旧、功能单一、登录繁琐等痛点，提供一个功能全面、操作直观的一站式解决方案。
 
 <p align="center">
-  <a href="https://www.bilibili.com" target="_blank">
+  <a href="https://www.bilibili.com/video/BV1MDkgB7ETN/" target="_blank">
     <img src="./images/cover_demo.png" alt="点击观看B站演示视频（暂未录制）" width="800"/>
   </a>
   <br>
@@ -163,5 +163,6 @@
 如果这个项目对你有帮助，请不吝点亮一颗 ⭐！
 
 ## 📜 开源协议
+
 
 本项目基于 MIT 协议开源。详情请见 [LICENSE](LICENSE) 文件。
